@@ -2,6 +2,7 @@
 
 我的博客 ：[叫我皮卡丘](<https://blog.csdn.net/liyuanyue2017>)
 
+### [Data Structure by Chenyue V2.0](https://beatlesm.s3.us-west-1.amazonaws.com/BloomTech/DS-Chenyue_v2.pdf)
 
 [![Stargazers over time](https://starchart.cc/callmePicacho/Data-Structres.svg)](https://starchart.cc/callmePicacho/Data-Structres)
 
